@@ -1,0 +1,24 @@
+{
+  "name": "tools-fetch",
+  "version": "1.0.0",
+  "description": "tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "tools",
+    "download",
+    "upload",
+    "tools-abvos"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elizabeth520/tools-fetch"
+  },
+  "bugs": {
+    "url": "https://github.com/Elizabeth520/tools-fetch/issues"
+  },
+  "homepage": "https://github.com/Elizabeth520/tools-fetch#readme",
+  "license": "MIT"
+}
